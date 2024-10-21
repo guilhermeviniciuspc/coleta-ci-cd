@@ -26,7 +26,7 @@ https://mysql-java-dev-a9ahhxa8gdahakad.brazilsouth-01.azurewebsites.net/swagger
 
 ![](/assets/images/swagger_azure.png)
 
-## Parar e execução da Aplição
+## Parar e execução da Aplicação
 
 ```sh
 docker compose down
