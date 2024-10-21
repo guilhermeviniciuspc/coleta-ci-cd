@@ -18,7 +18,7 @@ docker compose up --build
 
 ./mvnw test
 
-## Coleta API na Azure
+## Coleta API na Azure (Docs)
 
 https://fiap-coleta-api-gbfhfpbrftbgd4ct.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
