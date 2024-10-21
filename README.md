@@ -1,4 +1,4 @@
-# Java Mysql Ci/CD
+# Coleta FIAP
 
 Aplicação API 
 
@@ -14,17 +14,15 @@ Aplicação API
 docker compose up --build
 ```
 
-## Documentação online (OpenAPI)
+## Testes unitários (validação)
 
-http://localhost:8080/swagger-ui/index.html
+./mvnw test
 
-![](/assets/images/swagger.png)
+## Coleta API na Azure
 
-## Link Swagger da aplicação no Azure
+https://fiap-coleta-api-gbfhfpbrftbgd4ct.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
-https://mysql-java-dev-a9ahhxa8gdahakad.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
-
-![](/assets/images/swagger_azure.png)
+![](/assets/images/swagger-coleta-fiap.png)
 
 ## Parar e execução da Aplicação
 
